@@ -1,0 +1,10 @@
+node_modules
+bower_components
+npm-debug.log
+*.log
+.DS_Store
+dist
+.idea
+.github/
+.vscode/
+package-lock.json
