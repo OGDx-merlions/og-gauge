@@ -31,7 +31,12 @@ Second, import the component to your application with the following tag in your 
 Finally, use the component in your application:
 
 ```
-Insert Your demo code here.
+<og-gauge
+  title="Frequency Gauge"
+  unit="Hz"
+  value="30"
+  thresholds='[{"parts":38,"color":"#7aba00"},{"parts":31,"color":"#f3a441"},{"parts":31,"color":"#f34335"}]'>
+</og-gauge>
 ```
 
 <br />
