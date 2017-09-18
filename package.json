@@ -1,13 +1,13 @@
 {
     "name": "og-gauge",
     "author": "General Electric",
-    "description": "A Px component",
-    "version": "0.0.1",
-    "private": true,
+    "description": "Custom Gauge Implementation using D3",
+    "version": "0.1.1",
+    "private": false,
     "extName": null,
     "repository": {
         "type": "git",
-        "url": "https://github.com/PredixDev/og-gauge.git"
+        "url": "https://github.com/OGDx-merlions/og-gauge.git"
     },
     "homepage": "http://predix.io/",
     "devDependencies": {
